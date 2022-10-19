@@ -11,4 +11,4 @@ public class Main {
         LastWish.setPublicationYear(2021);
         System.out.println(LastWish);
     }
-}111111111111111111
+}
