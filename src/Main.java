@@ -6,9 +6,9 @@ public class Main {
     Author KirBulichev = new Author("Кир","Булычев");
     Book LastWish = new Book("Последнее желание",AndrzejSapkowski,1993);
     Book Village = new Book("Посёлок",KirBulichev,1988);
-        System.out.println(LastWish.bookInfo());
-        System.out.println(Village.bookInfo());
+        System.out.println(LastWish);
+        System.out.println(Village);
         LastWish.setPublicationYear(2021);
-        System.out.println(LastWish.bookInfo());
+        System.out.println(LastWish);
     }
-}
+}111111111111111111
